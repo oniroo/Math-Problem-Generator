@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Math: Logarithm Master",
+  "description": "An interactive logarithm problem generator and solver using Gemini AI to create diverse math problems across 7 different types, complete with step-by-step LaTeX explanations and automated grading.",
+  "requestFramePermissions": []
+}
